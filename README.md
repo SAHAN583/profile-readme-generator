@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/DMSABDissanayake/DMSABDissanayake/blob/main/resources/img/waving.gif">, I'm D M S A B Dissanayake</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A Freelance Developer An Also An Computer Science With AI, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://[www.linkedin.com/in/azzar-budiyanto](https://www.linkedin.com/in/sahan-dissanayaka-62301131b?utm_source=share_via&utm_content=profile&utm_medium=member_android)/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/azzar-budiyanto](https://www.linkedin.com/in/sahan-dissanayaka-62301131b?utm_source=share_via&utm_content=profile&utm_medium=member_android/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://fb.com/DMSABDissanayake" target="blank"><img align="center"
@@ -28,10 +28,10 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="[//www.instagram.com/sahan_dissanayke?igsh=MXdsdTY0NWowNG02NQ==)o" target="blank"><img align="center"
+      <a href="//www.instagram.com/sahan_dissanayke?igsh=MXdsdTY0NWowNG02NQ==)o" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://![WhatsApp Image 2026-02-09 at 23 14 52](https://github.com/user-attachments/assets/75b372be-5348-4816-bd0d-9ba62354e631)
+      <a href="https://!WhatsApp Image 2026-02-09 at 23 14 52](https://github.com/user-attachments/assets/75b372be-5348-4816-bd0d-9ba62354e631)
 " target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
