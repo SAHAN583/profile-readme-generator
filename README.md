@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://DMSABDissanayake.github.io/DMSABDissanayake/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/"
        alt="snake" /></a>
 </div>
 
@@ -17,7 +17,7 @@
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+      <a href="https://[www.linkedin.com/in/azzar-budiyanto](https://www.linkedin.com/in/sahan-dissanayaka-62301131b?utm_source=share_via&utm_content=profile&utm_medium=member_android)/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://fb.com/DMSABDissanayake" target="blank"><img align="center"
@@ -28,15 +28,16 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+      <a href="[//www.instagram.com/sahan_dissanayke?igsh=MXdsdTY0NWowNG02NQ==)o" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+      <a href="https://![WhatsApp Image 2026-02-09 at 23 14 52](https://github.com/user-attachments/assets/75b372be-5348-4816-bd0d-9ba62354e631)
+" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+      <a href="https://twitter." target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="sahan" height="30"/></a>
       <br>
     </p>
   </samp>
